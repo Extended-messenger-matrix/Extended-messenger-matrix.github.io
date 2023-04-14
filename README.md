@@ -1,5 +1,7 @@
 # Extended Messenger-Matrix
-An extended version of Mike Kuketz's <a href="https://www.messenger-matrix.de/">Messenger-Matrix</a>
+An extended version of Mike Kuketz's <a href="https://www.messenger-matrix.de/">Messenger-Matrix</a><br>
+Created by <a href="https://github.com/C161/c161.github.io">C16.one</a>
+
 
 ### What is new?
 
